@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\Assignment2PRN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|d:\\prn212\\assignment2prn\\customerinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|solutionrelative:customerinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|d:\\prn212\\assignment2prn\\customerbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|solutionrelative:customerbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|d:\\prn212\\assignment2prn\\listcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|solutionrelative:listcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|d:\\prn212\\assignment2prn\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|d:\\prn212\\assignment2prn\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|d:\\prn212\\assignment2prn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|d:\\prn212\\assignment2prn\\roominfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|solutionrelative:roominfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|d:\\prn212\\assignment2prn\\bookingmanage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08EA59C8-66B7-4F52-9CCE-D71057487764}|AssignmentPRN1.csproj|solutionrelative:bookingmanage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingManage.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Assignment2PRN\\BookingManage.xaml",
+              "RelativeDocumentMoniker": "BookingManage.xaml",
+              "ToolTip": "D:\\PRN212\\Assignment2PRN\\BookingManage.xaml",
+              "RelativeToolTip": "BookingManage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T05:07:34.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomInfo.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Assignment2PRN\\RoomInfo.xaml",
+              "RelativeDocumentMoniker": "RoomInfo.xaml",
+              "ToolTip": "D:\\PRN212\\Assignment2PRN\\RoomInfo.xaml",
+              "RelativeToolTip": "RoomInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T05:02:03.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Assignment2PRN\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Assignment2PRN\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T05:01:40.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Assignment2PRN\\Register.xaml",
+              "RelativeDocumentMoniker": "Register.xaml",
+              "ToolTip": "D:\\PRN212\\Assignment2PRN\\Register.xaml",
+              "RelativeToolTip": "Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T05:01:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Assignment2PRN\\Login.xaml",
+              "RelativeDocumentMoniker": "Login.xaml",
+              "ToolTip": "D:\\PRN212\\Assignment2PRN\\Login.xaml",
+              "RelativeToolTip": "Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T05:01:18.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListCustomer.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Assignment2PRN\\ListCustomer.xaml",
+              "RelativeDocumentMoniker": "ListCustomer.xaml",
+              "ToolTip": "D:\\PRN212\\Assignment2PRN\\ListCustomer.xaml",
+              "RelativeToolTip": "ListCustomer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T05:01:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerInfo.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Assignment2PRN\\CustomerInfo.xaml",
+              "RelativeDocumentMoniker": "CustomerInfo.xaml",
+              "ToolTip": "D:\\PRN212\\Assignment2PRN\\CustomerInfo.xaml",
+              "RelativeToolTip": "CustomerInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T05:00:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerBooking.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Assignment2PRN\\CustomerBooking.xaml",
+              "RelativeDocumentMoniker": "CustomerBooking.xaml",
+              "ToolTip": "D:\\PRN212\\Assignment2PRN\\CustomerBooking.xaml",
+              "RelativeToolTip": "CustomerBooking.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T05:00:09.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
